@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dpigpio
+dpigpio.so
+dpigpio.dylib
+dpigpio.dll
+dpigpio.a
+dpigpio.lib
+dpigpio-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.a

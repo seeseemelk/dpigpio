@@ -1,0 +1,7 @@
+name "dpigpio"
+description "D language binding for pigpio which allows control of a Raspberry Pi's GPIO"
+authors "Sebastiaan de Schaetzen"
+copyright "Copyright © 2019, Sebastiaan de Schaetzen"
+license "MIT"
+targetType "library"
+libs "pigpio"
